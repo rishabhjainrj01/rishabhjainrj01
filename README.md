@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Jain</h1>
-<h3 align="center">An SDET @ Sprinklr | 7+ years breaking things so users don't have to 😉</h3>
+<h3 align="center">SDET @ Sprinklr | 7+ years breaking things so users don't have to 😉</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhjain-qait&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhjain-qait" /> </p>
 
